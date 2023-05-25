@@ -1,0 +1,11 @@
+{
+    "name": "heiniken"
+    , "description" : "heiniken description" 
+    , "ibu": "0"
+    , "abv" : "5%"
+    , "brewery": "heineken"
+    , "style": "premium american lager"
+    , "seasonal": "no"
+    , "consumption_temperature": "5-7 °C"
+    , "web_site": "www.heineken.com"
+}

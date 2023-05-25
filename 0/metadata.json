@@ -1,0 +1,11 @@
+{
+    "name": "skol"
+    , "description" : "A cerveja Skol é uma cerveja clara, com aroma refinado e sabor leve e suave. Cerveja Skol é jovem, ousada, irreverente, é a marca referência em eventos e a mais inovadora: foi a primeira cerveja em lata e lata de alumínio do país, a pioneira em garrafa long neck, lata com boca redondona, garrafa big neck e lata de 473 ml. Por tudo isso é a líder em preferência e vendas no Brasil. Skol, a cerveja que desce redondo." 
+    , "ibu": "0"
+    , "abv" : "4.7%"
+    , "brewery": "ambev"
+    , "style": "stanard american lager"
+    , "seasonal": "no"
+    , "consumption_temperature": "0-4 °C"
+    , "web_site": "www.ambev.com.br"
+}

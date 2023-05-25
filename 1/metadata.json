@@ -1,0 +1,11 @@
+{
+    "name": "brahma duplo malte"
+    , "description" : "brahma_duplo_malte description"
+    , "ibu": "0"
+    , "abv" : "4.7%"
+    , "brewery": "ambev"
+    , "style": "american lager"
+    , "seasonal": "no"
+    , "consumption_temperature": "5-7 °C"
+    , "web_site": "www.ambev.com.br"
+}
