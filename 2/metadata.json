@@ -1,5 +1,6 @@
 {
-    "name": "heiniken"
+    "path": 2
+    ,"name": "heiniken"
     , "description" : "heiniken description" 
     , "ibu": "0"
     , "abv" : "5%"
