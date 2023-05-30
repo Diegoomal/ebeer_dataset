@@ -1,0 +1,14 @@
+{
+    "path": 6
+    ,"name": "colorado_indica_garrafa"
+    , "description" : "colorado_indica_garrafa description"
+    , "size": "600ml"
+    , "package": "bottle"
+    , "ibu": "0"
+    , "abv" : "7%"
+    , "brewery": "ambev"
+    , "style": "india pale ale"
+    , "seasonal": "no"
+    , "consumption_temperature": "5-7 °C"
+    , "web_site": "www.ambev.com.br"
+}

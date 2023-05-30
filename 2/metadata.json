@@ -2,6 +2,8 @@
     "path": 2
     ,"name": "heiniken"
     , "description" : "heiniken description" 
+    , "size": "330ml"
+    , "package": "bottle"
     , "ibu": "0"
     , "abv" : "5%"
     , "brewery": "heineken"

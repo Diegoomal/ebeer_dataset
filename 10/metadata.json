@@ -1,0 +1,14 @@
+{
+    "path": 6
+    ,"name": "coronita_long_neck"
+    , "description" : "coronita_long_neck description" 
+    , "size": "210ml"
+    , "package": "bottle"
+    , "ibu": "0"
+    , "abv" : "4.6%"
+    , "brewery": "ambev"
+    , "style": "standart american lager"
+    , "seasonal": "no"
+    , "consumption_temperature": "0-4 °C"
+    , "web_site": "www.ambev.com.br"
+}

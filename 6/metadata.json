@@ -1,0 +1,14 @@
+{
+    "path": 6
+    ,"name": "colorado_appia_lata"
+    , "description" : "colorado_appia_lata description"
+    , "size": "600ml"
+    , "package": "bottle"
+    , "ibu": "0"
+    , "abv" : "5.5%"
+    , "brewery": "ambev"
+    , "style": "german weizen"
+    , "seasonal": "no"
+    , "consumption_temperature": "5-7 °C"
+    , "web_site": "www.ambev.com.br"
+}

@@ -1,0 +1,14 @@
+{
+    "path": 3
+    ,"name": "amstel"
+    , "description" : "amstel description" 
+    , "size": "350ml"
+    , "package": "can"
+    , "ibu": "0"
+    , "abv" : "5%"
+    , "brewery": "heineken"
+    , "style": "standart american lager"
+    , "seasonal": "no"
+    , "consumption_temperature": "0-4 °C"
+    , "web_site": "www.heineken.com"
+}

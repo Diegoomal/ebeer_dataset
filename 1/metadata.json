@@ -2,6 +2,8 @@
     "path": 1
     , "name": "brahma duplo malte"
     , "description" : "brahma_duplo_malte description"
+    , "size": "290ml"
+    , "package": "can"
     , "ibu": "0"
     , "abv" : "4.7%"
     , "brewery": "ambev"

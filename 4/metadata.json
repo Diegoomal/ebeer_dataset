@@ -1,0 +1,14 @@
+{
+    "path": 3
+    ,"name": "bavaria"
+    , "description" : "bavaria description" 
+    , "size": "350ml"
+    , "package": "can"
+    , "ibu": "0"
+    , "abv" : "4.3%"
+    , "brewery": "heineken"
+    , "style": "standart american lager"
+    , "seasonal": "no"
+    , "consumption_temperature": "0-4 °C"
+    , "web_site": "www.heineken.com"
+}

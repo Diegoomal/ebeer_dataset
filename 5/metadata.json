@@ -1,0 +1,14 @@
+{
+    "path": 5
+    ,"name": "bohemia"
+    , "description" : "bohemia description" 
+    , "size": "350ml"
+    , "package": "can"
+    , "ibu": "0"
+    , "abv" : "5%"
+    , "brewery": "ambev"
+    , "style": "standart american lager"
+    , "seasonal": "no"
+    , "consumption_temperature": "0-4 °C"
+    , "web_site": "www.ambev.com.br"
+}
